@@ -1,4 +1,4 @@
-### Step 3: Upload the Sample Files
+### Step 1.3: Upload the Sample Files
 
 With the bucket and folder structure in place, sample data was uploaded to simulate a real-world scenario.
 
