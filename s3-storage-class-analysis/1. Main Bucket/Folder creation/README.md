@@ -1,4 +1,4 @@
-### Step 2: Create the Folder Structure (Prefixes)
+### Step 1.2: Create the Folder Structure (Prefixes)
 
 To ensure the data was organized and easy to manage, a logical folder structure was planned and implemented. In Amazon S3, "folders" are technically known as prefixes.
 
